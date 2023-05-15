@@ -10,6 +10,10 @@
 There is 1 medium problem.
 
 ### 75. Sort Colors
-![`./medium/75_sort_colors.swift`](./medium/75_sort_colors.swift)
+#### Quick Look
+![75. Sort Colors](./photos/75_sort_colors.png)
+
+#### Files
+1. [`./medium/75_sort_colors.swift`](./medium/75_sort_colors.swift)
 
 ## Hard
