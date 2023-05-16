@@ -2,7 +2,9 @@
 ## Table of Contents
 1. Easy
 2. Medium
-3. Hard
+    1. 2\. Add Two Numbers
+    2. 75\. Sort Color
+4. Hard
 
 ## Easy
 
