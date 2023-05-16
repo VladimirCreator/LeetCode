@@ -7,14 +7,14 @@
 ## Easy
 
 ## Medium
-There is 1 medium problem.
+There are 2 medium problems.
 
 ### 2. Add Two Numbers
 #### Quick Look
 ![2. Add Two Numbers](./photos/2_add_two_numbers.png)
 
 #### Files
-1. [`./medium/2_add_two_numbers.swift`](./medium/2_add_two_numbers.swift)
+1. [`./medium/2_add_two_numbers.cpp`](./medium/2_add_two_numbers.cpp)
 
 ### 75. Sort Colors
 #### Quick Look
