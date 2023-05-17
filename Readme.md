@@ -1,12 +1,21 @@
 # LeetCode
 ## Table of Contents
 1. Easy
-2. Medium
+    1. 704\. Binary Search
+3. Medium
     1. 2\. Add Two Numbers
     2. 75\. Sort Color
 4. Hard
 
 ## Easy
+There is 1 easy problem.
+
+### 704. Binary Search
+#### Quick Look
+![704. Binary Search](./photos/704_binary_search.png)
+
+#### Files
+1. [`./easy/704_binary_search.swift`](./easy/704_binary_search.swift)
 
 ## Medium
 There are 2 medium problems.
