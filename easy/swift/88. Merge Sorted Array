@@ -1,0 +1,23 @@
+/* Initially Modified at 01:45 PM on Thu 16 Nov 2023
+        Last Modified at 01:53 PM on Thu 16 Nov 2023
+   Create upload-88-merge-sorted-array@github at 2:33 PM on Thu 16 Nov 2023.
+*/
+let numbers1: [Int] = [1, 2, 4] // sorted!
+let numbers2: [Int] = [1, 1, 4] // sorted!
+var numbers: [Int] = []
+
+var i = 0, j = 0
+while i < numbers1.count || j < numbers2.count {
+    if numbers1[i] == numbers2[j] || numbers1[i] < numbers2[j] {
+        numbers.append(numbers1[i])
+        numbers.append(numbers2[j])
+    }
+    else {
+        numbers.append(numbers2[j])
+        numbers.append(numbers1[i])
+    }
+
+    if i < numbers1.count { i += 1}; if j < numbers2.count { j += 1 }
+}
+
+print(numbers)

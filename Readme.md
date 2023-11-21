@@ -1,6 +1,8 @@
 # LeetCode
 ## Table of Contents
 1. Easy
+    1. 88\. Merge Sorted Array
+        - [Swift](/easy/swift/88.%20Merge%20Sorted%20Array)
     1. 704\. Binary Search
         - [Swift](./easy/swift/704_binary_search.swift)
 1. Medium
